@@ -1,0 +1,29 @@
+Okay, let's tackle this summary. The user provided five different news articles, each about a distinct topic. My job is to condense each one into a brief summary. First, I need to read through each article carefully to understand the main points.
+
+Starting with the first article about the Jerdon's Babbler. The key points are that the bird was thought extinct for 73 years but was rediscovered in Myanmar using a recording of its call. The scientists found a small population, but the habitat is under threat. They might do DNA tests to see if it's a separate species. Also, Myanmar's political changes are mentioned.
+
+Next, the second article is about Andrew Chan offering his liver to a friend with terminal illness. The friend received a transplant from someone else, but Chan's gesture is highlighted. They're both on death row in Indonesia, and there's a campaign against their execution. The article mentions their rehabilitation work in prison.
+
+The third article discusses Roberto Martinez's concerns about the pitch condition for the Everton vs. Dynamo Kiev match. The pitch was covered, so they trained on the running track. Both teams would be affected equally, but it's a shame for the game.
+
+The fourth article is about the health tourism gap in the UK, where the NHS pays more for EU patients than it receives. The government wants to recoup more funds, but there's a significant deficit. Examples like Caroline Nyadzayo's unpaid bill are mentioned.
+
+The fifth article covers North Carolina State University disbanding a fraternity chapter after a notebook with racist and sexist remarks was found. They're reviewing their Greek system and suspending other fraternities. The fraternity might return in 2018.
+
+Now, I need to make sure each summary captures the essence without too much detail. I should avoid including minor points and focus on the main events, outcomes, and implications. Also, check for any cultural sensitivities, but since these are factual summaries, it should be okay. Let me structure each summary with a heading, then a concise paragraph. Make sure the language is clear and straightforward, as per the user's request for a helpful response. Double-check that all key elements from each article are included without personal opinions. Alright, time to put it all together.
+</think>
+
+**1. Rediscovery of Jerdon's Babbler in Myanmar**  
+The Jerdon's Babbler, a bird thought extinct for 73 years, was rediscovered in Myanmar using recordings of its call. Scientists found a small population in a shrinking grassland habitat, prompting plans for DNA tests to determine if it’s a distinct species. However, its survival remains uncertain due to habitat loss and encroaching development.  
+
+**2. Bali Nine Inmate Offers Liver for Friend’s Transplant**  
+Andrew Chan, an Australian on death row in Indonesia, offered his liver to save a friend diagnosed with terminal liver disease. Though the friend received a donor organ, Chan’s gesture highlighted his compassion. Chan and fellow inmate Myuran Sukumaran, involved in prison rehabilitation programs, await execution despite global appeals for clemency.  
+
+**3. Everton Boss Concerns Over Poor Pitch Condition**  
+Everton’s manager, Roberto Martinez, expressed concerns about Dynamo Kiev’s Olympic Stadium pitch ahead of a Europa League match. The pitch was covered, forcing training on a running track. Martinez noted the poor condition would equally affect both teams but lamented its impact on the game’s quality.  
+
+**4. UK’s Health Tourism Gap Soars to £700 Million**  
+The UK’s NHS faces a £700 million annual deficit due to treating EU citizens while recovering only £50 million from other countries. Efforts to recoup costs include stricter billing for non-UK patients, though challenges persist. Cases like a Zimbabwean mother’s £3,000 maternity bill underscore systemic issues.  
+
+**5. N.C. State Disbands Fraternity Over Racist, Sexist Notebook**  
+North Carolina State University disbanded a Pi Kappa Phi chapter after a student found a notebook containing racist and sexist remarks, including references to lynching and rape. The university is reviewing its Greek system and suspending other fraternities amid multiple misconduct cases.
