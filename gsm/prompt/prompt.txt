@@ -1,4 +1,4 @@
-以下の算数の問題を順番に解いてください。各問題ごとに途中式と答えを示してください。
+Please solve the following math problems in order. Please provide the steps and answer for each problem :
 
 1.
 Erika is saving for a new laptop. The laptop she wants costs $600. The sales assistant told her that if she traded in her old laptop, the price of the new one would be reduced by $200. She thinks this is a good deal and agrees to do it. She already has some savings in her purse, and has also been paid $150 this week for her part-time job. Her mom agrees to give her $80 to help her. If Erika now only needs an extra $50 to buy the laptop, how much money does she have in her purse?
@@ -15,4 +15,4 @@ The employees of Google went on a day trip. 4 buses were rented that have the ca
 5.
 A jellyfish tank has numerous jellyfish in it. A fifth of the jellyfish are large, and a third of the large jellyfish change color from green to blue under UV light. The other jellyfish are small and always stay blue. When a UV light turned on, 6 jellyfish changed color. How many jellyfish are in the tank?
 
-回答：
+Answer：

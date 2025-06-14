@@ -3,7 +3,7 @@ from pathlib import Path
 
 def create_summary_prompt(input_file: Path,
                           output_file: Path,
-                          instruction: str = "以下のテキストを要約してください。") -> None:
+                          instruction: str = "Summarize the following text :") -> None:
     """
     picked_articles.txt の各行を読み込み、番号付きで要約タスクを並べたプロンプトを生成して prompt.txt に保存する
 

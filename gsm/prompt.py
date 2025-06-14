@@ -3,7 +3,7 @@ import pandas as pd
 
 def create_math_prompt(input_csv: Path,
                        output_file: Path,
-                       instruction: str = "以下の算数の問題を順番に解いてください。各問題ごとに途中式と答えを示してください。") -> None:
+                       instruction: str = "Please solve the following math problems in order. Please provide the steps and answer for each problem :") -> None:
     """
     CSVの'question'列から問題文を読み込み、番号付きで並べたプロンプトを生成し prompt.txt に保存する
 
@@ -24,7 +24,7 @@ def create_math_prompt(input_csv: Path,
 
     # プロンプト組み立て
     body = "\n\n".join(sections)
-    prompt = f"{instruction}\n\n{body}\n\n回答："
+    prompt = f"{instruction}\n\n{body}\n\nAnswer："
 
     # ファイル書き出し
     output_file.write_text(prompt, encoding="utf-8")

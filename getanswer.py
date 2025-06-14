@@ -26,7 +26,7 @@ def summarize_text(prompt: str, model: str) -> str:
     completion = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", "content": "You are a helpful assistant."},
+            # {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user",   "content": prompt},
         ],
         temperature=0.3,
