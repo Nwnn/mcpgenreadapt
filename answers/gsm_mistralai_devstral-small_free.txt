@@ -1,0 +1,9 @@
+1. Let's denote the amount of money Erika has in her purse as P. The total cost of the laptop after the trade-in is $600 - $200 = $400. She has $150 from her job and $80 from her mom, so she has $150 + $80 = $230. She needs an extra $50, so the total amount she has is $230 + $50 = $280. Therefore, the amount of money she has in her purse is $280 - $230 = $50.
+
+2. The baseball coach spent 9 baseballs * $3 each = $27. The basketball coach spent 8 basketballs * $14 each = $112. The basketball coach spent $112 - $27 = $85 more than the baseball coach.
+
+3. Melanie has saved 10 toothpicks each week for 12 weeks, so she has 10 * 12 = 120 toothpicks. She needs 200 toothpicks, so she needs 200 - 120 = 80 more toothpicks. Since she saves 10 toothpicks each week, it will take her 80 / 10 = 8 more weeks to collect 200 toothpicks.
+
+4. The 4 buses can hold 4 * 60 = 240 employees. The 6 minibusses can hold 6 * 30 = 180 employees. The 10 minivans can hold 10 * 15 = 150 employees. Therefore, the total number of employees that can join the day trip is 240 + 180 + 150 = 570 employees.
+
+5. Let's denote the total number of jellyfish as J. A fifth of the jellyfish are large, so there are J/5 large jellyfish. A third of the large jellyfish change color, so there are (J/5)/3 = J/15 jellyfish that change color. We know that 6 jellyfish changed color, so J/15 = 6. Solving for J, we get J = 6 * 15 = 90. Therefore, there are 90 jellyfish in the tank.

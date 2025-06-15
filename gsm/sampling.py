@@ -6,7 +6,7 @@ from pathlib import Path
 # Configuration variables (edit these to suit your needs)
 input_jsonl = Path(__file__).parent / "dataset" / "test.jsonl"      # Path to your input JSONL file
 output_csv = Path(__file__).parent / "sample" / "output.csv"        # Path to your desired output CSV file
-sample_size = 5                 # Number of entries to sample
+sample_size = 3                 # Number of entries to sample
 seed = None                      # Random seed for reproducibility (set to an integer for deterministic output)
 
 

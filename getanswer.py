@@ -30,7 +30,7 @@ def summarize_text(prompt: str, model: str) -> str:
             {"role": "user",   "content": prompt},
         ],
         temperature=0.3,
-        max_tokens=2048,
+        max_tokens=4096,
     )
     return completion.choices[0].message.content.strip()
 
